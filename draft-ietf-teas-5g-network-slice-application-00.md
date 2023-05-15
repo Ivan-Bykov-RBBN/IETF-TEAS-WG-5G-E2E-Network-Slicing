@@ -14,6 +14,7 @@ keyword:
  - Network Slice 
  - Architecture
  - Mapping 3GPP
+ - Sicing concept
 
 author:
  -
