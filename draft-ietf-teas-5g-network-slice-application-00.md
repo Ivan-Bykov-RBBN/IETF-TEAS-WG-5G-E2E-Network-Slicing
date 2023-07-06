@@ -588,6 +588,8 @@ Depends on Radio Access Network (RAN) deployment, one or multiple
 
 ##  MPLS Lable Hand-off
 
+Additional part
+
    Similar to section 2.4.2, the MPLS label based method uses an MPLS
    label as identification of the 3GPP network slice.  {{Figure11}} shows
    this solution where the IETF network slice INS1 is relaized by CU and
